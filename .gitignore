@@ -1,0 +1,42 @@
+# Python bytecode
+__pycache__/
+*.py[c]
+*$py.class
+
+# Distribution / packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.whl
+
+# Virtual environments
+.env
+.venv
+venv/
+env/
+
+# IDE / editor artifacts
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Document outputs
+*.docx
+*.pdf
+
+# Debug / temp files
+convert.log
+convert.err
+debug.log
+debug.err
+
+# User-specific files
+~*.docx
+
+# Data cache (if any)
+*.pkl
+*.h5
+*.hdf5
